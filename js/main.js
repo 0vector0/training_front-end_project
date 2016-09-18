@@ -1,6 +1,3 @@
-/**
- * Created by vector on 18.09.2016.
- */
 $(document).ready(function () {
 
 
@@ -16,6 +13,5 @@ $(document).ready(function () {
     });
 
 });
-git
 
 
