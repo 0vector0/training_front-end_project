@@ -1,0 +1,41 @@
+.pages {
+    margin: 10em 15em;
+}
+
+.pages img {
+    width: 100%;
+    height: auto;
+}
+
+#page0 {
+    margin: 0;
+}
+
+/*#page0 {*/
+    /*display: none;*/
+/*}*/
+
+.hidden-page {
+    display: none;
+    /*visibility: collapse;*/
+}
+
+
+
+/*#page1 {*/
+/*visibility: visible;*/
+/*}*/
+
+/*body {*/
+/**/
+/*}*/
+
+.content {
+    /*@include bg();*/
+    /*background-image: url("../img/main.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: contain;*/
+    /*min-width: 88%;*/
+    /*min-height: 100%;*/
+    /*position: relative;*/
+}
